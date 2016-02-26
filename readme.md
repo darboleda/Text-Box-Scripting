@@ -20,6 +20,8 @@ Where [command] is the command name. Arguments are delimited by spaces, and ther
 is currently not support for quoted strings with spaces as arguments. If there are
 no parameters, you should probably use the `@[command];` version.
 
+To display the `@` character, just enter two in a row (i.e. `@@`).
+
 * ##### @n;
   Displays a newline. Equivalent to having a blank line in the script.
 
